@@ -1,7 +1,7 @@
 from twilio.rest import Client
 
-acctSid='AC1ecb7981d8e9724b2e9b3af6a0d521cb'
-authToken='f0486550029d362ad256b7b03cab0c0b'
+acctSid=''
+authToken=''
 
 client=Client(acctSid, authToken)
 
